@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020. 문자열혈 상수 이해하기(char)", "020. 문자열혈 상수 이해하기(char)\020. 문자열혈 상수 이해하기(char).vcxproj", "{6F029200-7502-46D1-82DC-0D935637BA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Debug|x64.ActiveCfg = Debug|x64
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Debug|x64.Build.0 = Debug|x64
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Debug|x86.Build.0 = Debug|Win32
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Release|x64.ActiveCfg = Release|x64
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Release|x64.Build.0 = Release|x64
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Release|x86.ActiveCfg = Release|Win32
+		{6F029200-7502-46D1-82DC-0D935637BA7F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78B24F7-63CF-4627-A532-E2C16E28BEF6}
+	EndGlobalSection
+EndGlobal
