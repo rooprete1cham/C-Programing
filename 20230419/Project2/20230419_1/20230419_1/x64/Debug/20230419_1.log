@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\user\Desktop\202315007\20230419\Project2\20230419_1\20230419_1\main.cpp(4,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'stdib.h': No such file or directory
